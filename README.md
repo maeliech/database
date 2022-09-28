@@ -60,6 +60,7 @@ ___bold and italic___
 **git reset [file]** : unstages file, keeping the file changes
 
 **git commit -m "[descriptive message]"** : commit all stages files to versioned history
+
 ---------------------------------
 
 ### Syncrhonize:
